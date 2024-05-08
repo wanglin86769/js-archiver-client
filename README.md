@@ -1,6 +1,6 @@
 # A JavaScript Client for Archiver Appliance
 
-**js-archiver-client** is a JavaScript client for Archiver Appliance, and it aims to provide batch operations which are useful but currently not officially provided by Archiver Appliance.
+**js-archiver-client** is a JavaScript client for Archiver Appliance, and it aims to provide some batch operations which are useful but currently not officially provided by Archiver Appliance.
 
 ![Alt text](webclient/docs/screenshots/home_page.png?raw=true "Title")
 
@@ -12,7 +12,7 @@ This tool can be used for the following batch operations which is currently not 
 * Batch operation for PV rename
 * Batch operation for PV delete but keep the data
 
-The following additional functions are alse provided,
+The following additional functions are also provided,
 
 * List PVs that are being archived in Archiver Appliance
 * Export PVs that are being archived in Archiver Appliance to Microsoft Excel file
