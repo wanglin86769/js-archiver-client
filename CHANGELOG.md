@@ -2,6 +2,11 @@
 
 ## Version history of js-archiver-client
 
+### v0.1.0
+
+- Add Docker deployment support
+- Add README
+
 ### v0.0.1
 
 **Initial version:**
