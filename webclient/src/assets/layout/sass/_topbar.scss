@@ -1,0 +1,22 @@
+.p-menubar {
+    // background: RGBA(0, 153, 220, 0.5) !important;
+    // background: RGB(118, 196, 232) !important;
+    background: RGB(118, 196, 212) !important;
+    position: sticky !important;
+    z-index: 999;
+}
+
+.p-menuitem-text, .p-menuitem-icon, .p-submenu-icon {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.logo {
+	vertical-align: middle; 
+    color: gold;
+	font-weight: bold; 
+	font-size: 1.4em;
+    margin-right: 10px;
+}
+
+
